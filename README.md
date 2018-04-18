@@ -1,5 +1,5 @@
-# mckinsey-assignment
+# assignment
 
-Test Assignment for McKinsey
+Test Assignment
 
 Run RetailBusinessUnitTest junit class
