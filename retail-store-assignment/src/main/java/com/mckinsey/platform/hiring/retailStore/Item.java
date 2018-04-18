@@ -1,7 +1,7 @@
 package main.java.com.mckinsey.platform.hiring.retailStore;
 
 /**
- * This class store the item detail for each of the grocery item
+ * This class store the item detail for each of the grocery item 
  * @author manisha nandal
  *
  */
